@@ -17,7 +17,7 @@ title: ""
 2023年8月28日（月）〜29日（火）  
 
 ## 会場
-統計数理研究所 セミナー室？ （[研究所へのアクセス](https://www.ism.ac.jp/access/index_j.html){:target="_blank"}）
+統計数理研究所 3階セミナー室1 （[研究所へのアクセス](https://www.ism.ac.jp/access/index_j.html){:target="_blank"}）
   
   
 　
