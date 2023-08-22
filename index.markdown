@@ -81,7 +81,10 @@ title: ""
 - 島谷健一郎（統数研）
 
 - 大泉嶺（人口問題研究所）
-
+    - 【講演要旨】日本の総人口は国勢調査をベースにすると2010年をピークにこの10年余り減少し続けている．主な原因は1976年以降人口置換水準を下回る合計特殊出生率の継続，いわゆる少子化であるがそれを取り巻く環境は様々である．例えば合計特殊出生率の低い東京など都市圏への人口一極集中や移民制度の制約など，他にも様々な社会的要因が存在する．本研究ではそうした社会的背景や時代背景ではなく，人口動態を決定づける三つの要因，出生，死亡そして移動（国内・外問わず），のデータを元に，多地域レスリー行列を用いて人口減少の要因を解析する．多地域レスリー行列は個人と先祖の移住経路による固有システムの解釈ができるので，本講演では移住経路による解釈を用いた多地域レスリー行列の理論と応用により我が国の人口減少について議論したい．
+    - [Sensitivity analysis on the declining population in Japan: Effects of prefecture-specific fertility and interregional migration. PLOS ONE.](https://doi.org/10.1371/journal.pone.0273817){:target="_blank"}
+    - [講演スライド]({{ site.baseurl }}/assets/Oizumi.pptx)  
+　
 - 佐竹曉子（九州大）
     - [https://www.biology.kyushu-u.ac.jp/~satake/](https://www.biology.kyushu-u.ac.jp/~satake/){:target="_blank"}  
 　
