@@ -68,6 +68,19 @@ title: ""
 16:30-17:00 討論その他
   
   
+ポスター掲示：  
+森田慶一（総研大）  
+性淘汰が駆動する装飾形質の多型の創出：オリゴモルフィック・ダイナミクスによる数理モデル解析  
+
+西田喜平次（京都産大）  
+Kernel density estimation by genetic algorithm  
+
+支倉千賀子（東京農大）  
+イネ科タケ亜科　スズダケの開花周期の推定  
+
+本間千夏（秋田県立大）、川田尚平（東京大農）、吉田誠（東大海洋研）、ほか
+  
+  
 コメンテーター：  
 深谷肇一（環境研）、黒川瞬（北陸先端大）、ほか
   
@@ -90,7 +103,8 @@ title: ""
     - [https://www.biology.kyushu-u.ac.jp/~satake/](https://www.biology.kyushu-u.ac.jp/~satake/){:target="_blank"}  
 　
 - 岩田繁英（東京海洋大）
-
+    - [講演要旨]({{ site.baseurl }}/assets/Iwata.docx)  
+　
 - 青木聡志（環境研）
     - [講演要旨]({{ site.baseurl }}/assets/Aoki.docx)  
 　
