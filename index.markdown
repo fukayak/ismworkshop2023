@@ -148,8 +148,8 @@ Kernel density estimation by genetic algorithm
     - Ref.1 E.テーレン，L. スミス　発達へのダイナミックシステム・アプローチ　新曜社
     - Ref.2 H.Hagihara, H.Yamaomoto, Y.Moriguchi, M.Sakagami, Cognition 226 105177 (2022)
     - Ref.3 [Wordbank, An open database of children's vocabulary development](http://wordbank.stanford.edu){:target="_blank"}
-    - [資料1]({{ site.baseurl }}/assets/Sakagami.pdf){:target="_blank"}  
-    - [資料2（「認知科学」に掲載予定）]({{ site.baseurl }}/assets/Sakagami2.pdf){:target="_blank"}  
+    - [講演スライド]({{ site.baseurl }}/assets/Sakagami.pdf){:target="_blank"}  
+    - [論文（「認知科学」に掲載予定）]({{ site.baseurl }}/assets/Sakagami2.pdf){:target="_blank"}  
   
   
 　
